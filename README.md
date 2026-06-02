@@ -1,0 +1,5 @@
+"Course name: Introduction to AI" 
+"Semester 2" 
+"Name: Akosua Twumwaa Boateng - Mensah" 
+"Student ID: 66942028" 
+"Description: This repository contains lab 0 assignments for Introduction to AI." 
